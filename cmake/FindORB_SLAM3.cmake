@@ -1,4 +1,4 @@
-set(ORB_SLAM3_ROOT_DIR "/home/michael/Michael/robotics/ORB_SLAM3")
+set(ORB_SLAM3_ROOT_DIR "/ORB_SLAM3")
 
 # Find ORB_SLAM3
 find_path(ORB_SLAM3_INCLUDE_DIR NAMES System.h

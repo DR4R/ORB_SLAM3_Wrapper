@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ORBWarpper)
+project(ORBWrapper)
 
 MESSAGE("Build type: " ${CMAKE_BUILD_TYPE})
 
